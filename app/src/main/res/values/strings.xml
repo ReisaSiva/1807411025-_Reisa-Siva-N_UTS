@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">uts</string>
+    <string name="home">Home</string>
+    <string name="berita">Berita</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul">Judul Berita</string>
+    <string name="deskripsi">Deskripsi Pendek</string>
+    <string name="kelas">Kelas</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="nimAlumni">NIM: </string>
+    <string name="namaAlumni">Nama: </string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="deskripsi_aplikasi">Alumni dapat saling bertukar kabar, berbagi cerita lucu dan kisah cinta masa sekolah, memutakhirkan status dan foto profil, serta saling berkomentar di profil teman. \n\nAlumni hadir sebagai aplikasi yang didesain membangun kembali komunikasi dalam komunitas alumni satu almameter pemakainya, baik di tingkat SD, SMP, SMA, hingga pendidikan tinggi. \n\nData ratusan ribu sekolah swasta dan negeri di seluruh Indonesia itu dikumpulkan dan diolah sedemikian rupa oleh pengembangnya.</string>
+
+</resources>
